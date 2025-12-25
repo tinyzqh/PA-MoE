@@ -1,0 +1,7 @@
+torch==2.2.2
+tyro==0.9.16
+wandb==0.19.8
+numpy==1.25.2
+gymnasium==1.1.1
+scipy==1.13.1
+seaborn==0.13.2
