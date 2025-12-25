@@ -244,11 +244,11 @@ PA-MoE extends standard MoE with plasticity mechanisms:
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{pamoe2024,
+@article{he2025plasticity,
   title={Plasticity-Aware Mixture of Experts for Learning Under QoE Shifts in Adaptive Video Streaming},
-  author={Your Name},
-  journal={Conference/Journal Name},
-  year={2024}
+  author={He, Zhiqiang and Liu, Zhi},
+  journal={arXiv preprint arXiv:2504.09906},
+  year={2025}
 }
 ```
 
