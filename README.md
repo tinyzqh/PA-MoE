@@ -1,4 +1,4 @@
-# [IEEE TMM ACCEPT] Plasticity-Aware Mixture of Experts for Learning Under QoE Shifts in Adaptive Video Streaming
+# IEEE Transactions on Multimedia ACCEPT 🎯 Plasticity-Aware Mixture of Experts for Learning Under QoE Shifts in Adaptive Video Streaming
 
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.2.2-orange.svg)](https://pytorch.org/)
